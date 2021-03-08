@@ -1,0 +1,16 @@
+.one{
+     box-shadow: 0 4px 8px gainsboro;
+     background: linear-gradient(#1b5990b6,lightgrey);
+     height: 300px;
+    }
+.buton1{
+     background-color: #1B5A90;
+}
+.buton2{
+     background-color: #1B5A90;
+}
+.react-responsive-modal-modal {
+     width: 800px;
+     height: 400px;
+     border-radius: 20px;
+   }
